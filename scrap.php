@@ -4,7 +4,7 @@ echo " + Google Keyword Scrapper+ \n";
 echo " Created By Abdul Muttaqin. \n";
 echo " www.fdci-indonesia.web.id. \n";
 echo "++++++++++++++++++++++++++++\n";
-echo ' Input Keyword In Here: ';
+echo ' lose weight ';
 $key = trim(fgets(STDIN));
 function fungsiPengambilanData($keyword) {
     $keywords = array();
